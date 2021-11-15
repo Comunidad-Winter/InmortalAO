@@ -1,0 +1,31 @@
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\bin\Debug\Server.exe.config
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Interop.DAO.dll
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Interop.ODBCTool.dll
+C:\Users\jose-\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\bin\Debug\Server.exe.config
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Interop.DAO.dll
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
+C:\Users\ransomware\Desktop\InmortalAO-CSharp\serverVBNet\server\Server\obj\Debug\Server.vbprojResolveAssemblyReference.cache
+C:\Users\ransomware\Desktop\inmortalao-server-net\Server\bin\Debug\Server.exe.config
+C:\Users\ransomware\Desktop\inmortalao-server-net\Server\obj\Debug\Interop.DAO.dll
+C:\Users\ransomware\Desktop\inmortalao-server-net\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.vbprojAssemblyReference.cache
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Server.exe.config
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Server.exe.manifest
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Server.application
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Server.exe
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Server.pdb
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Server.xml
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\adodb.dll
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\bin\Debug\Interop.DAO.dll
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Interop.DAO.dll
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.vbproj.ResolveComReference.cache
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.Resources.resources
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.vbproj.GenerateResource.cache
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.vbproj.CoreCompileInputs.cache
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.exe.manifest
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.application
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.vbproj.CopyComplete
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.exe
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.xml
+F:\Repositorio Argentum\Servers\InmortalAO (IAO Clon) 1.4\inmortalao-server-net\Server\obj\Debug\Server.pdb

@@ -1,0 +1,4 @@
+Línea 55: la clase InetCtlsObjects.Inet del control mInet no era una clase de control cargada.
+Línea 58: el nombre de la propiedad _ExtentX de mInet no es válido.
+Línea 59: el nombre de la propiedad _ExtentY de mInet no es válido.
+Línea 60: el nombre de la propiedad _Version de mInet no es válido.

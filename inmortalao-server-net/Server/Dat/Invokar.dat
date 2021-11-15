@@ -1,0 +1,65 @@
+'#################### LISTA DE SPAWN #############################
+[INIT]
+NumNPCs=20
+
+[LIST]
+
+NI1=578
+NN1=Medusa 
+
+NI2=585
+NN2=Medusa Matriarch
+
+NI3=553
+NN3=Hechisero
+
+NI4=512
+NN4=Serpiente
+
+NI5=504
+NN5=Golem de piedra
+
+NI6=552
+NN6=Golem de oro
+
+NI7=575
+NN7=Golem de bronce
+
+NI8=577
+NN8=Golem infernal
+
+NI9=581
+NN9=Ogro Lider
+
+NI10=509
+NN10=Gran dragon azul
+
+NI11=582
+NN11=Rey dragon
+
+NI12=5
+NN12=Sacerdote
+
+NI13=14
+NN13=Alquimia
+
+NI14=27
+NN14=Sastre
+
+NI15=122
+NN15=Herrero
+
+NI16=586
+NN16=Aparicion
+
+NI17=587
+NN17=Golem de hielo
+
+NI18=548
+NN18=Leviatan
+
+NI19=584
+NN19=Ciclope
+
+NI20=585
+NN20=Yeti

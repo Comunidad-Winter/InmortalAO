@@ -1,0 +1,4 @@
+[History]
+1=#P0#=mb	#P1#=Map_Load	#P2#=Cliente/TileEngine/Map_Load	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20211005183141	#P7#=0	#P8#=8	.
+2=#P0#=mb	#P1#=Form_KeyUp	#P2#=Cliente/frmMain/Form_KeyUp	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210329204119	#P7#=0	#P8#=21	.
+3=#P0#=mb	#P1#=cmdDropGold_Click	#P2#=Cliente/frmMain/cmdDropGold_Click	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210311115524	#P7#=0	#P8#=1	.

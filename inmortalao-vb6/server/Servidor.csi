@@ -1,0 +1,25 @@
+[History]
+1=#P0#=mb	#P1#=HechizoEsUsuario	#P2#=ServerInmortalAO/modHechizos/HechizoEsUsuario	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20211111183630	#P7#=0	#P8#=42	.
+2=#P0#=mb	#P1#=UseInvItem	#P2#=ServerInmortalAO/InvUsuario/UseInvItem	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20211023173328	#P7#=0	#P8#=486	.
+3=#P0#=mb	#P1#=HandleWork	#P2#=ServerInmortalAO/Protocol/HandleWork	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20211023140944	#P7#=0	#P8#=46	.
+4=#P0#=mb	#P1#=HandleWorkLeftClick	#P2#=ServerInmortalAO/Protocol/HandleWorkLeftClick	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20211023140907	#P7#=0	#P8#=14	.
+5=#P0#=mb	#P1#=CheckUpdateNeededUser	#P2#=ServerInmortalAO/ModAreas/CheckUpdateNeededUser	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20211005183332	#P7#=0	#P8#=95	.
+6=#P0#=mb	#P1#=GameTimer_Timer	#P2#=ServerInmortalAO/frmMain/GameTimer_Timer	#P3#=	#P4#=	#P5#=MembEventProcPrivate	#P6#=20210924130701	#P7#=0	#P8#=81	.
+7=#P0#=mb	#P1#=ClasePuedeUsarItem	#P2#=ServerInmortalAO/InvUsuario/ClasePuedeUsarItem	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210923134319	#P7#=0	#P8#=1	.
+8=#P0#=mb	#P1#=LoadOBJData	#P2#=ServerInmortalAO/ES/LoadOBJData	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210923134302	#P7#=0	#P8#=34	.
+9=#P0#=mb	#P1#=UserDie	#P2#=ServerInmortalAO/UsUaRiOs/UserDie	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210827121013	#P7#=0	#P8#=7	.
+10=#P0#=mb	#P1#=torneo_iniciar	#P2#=ServerInmortalAO/Torneos/torneo_iniciar	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210407181140	#P7#=0	#P8#=5	.
+11=#P0#=mb	#P1#=ConnectUser	#P2#=ServerInmortalAO/TCP/ConnectUser	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210319171133	#P7#=0	#P8#=195	.
+12=#P0#=mb	#P1#=GolpeInmoviliza	#P2#=ServerInmortalAO/SistemaCombate/GolpeInmoviliza	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210316205035	#P7#=0	#P8#=5	.
+13=#P0#=mb	#P1#=CargarMapa	#P2#=ServerInmortalAO/ES/CargarMapa	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210314181313	#P7#=0	#P8#=227	.
+14=#P0#=mb	#P1#=HechizoTerrenoEstado	#P2#=ServerInmortalAO/modHechizos/HechizoTerrenoEstado	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210314140902	#P7#=0	#P8#=44	.
+15=#P0#=mb	#P1#=NpcLanzaSpellSobreUser	#P2#=ServerInmortalAO/modHechizos/NpcLanzaSpellSobreUser	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210314140655	#P7#=0	#P8#=4	.
+16=#P0#=mb	#P1#=LogError	#P2#=ServerInmortalAO/General/LogError	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311224548	#P7#=0	#P8#=1	.
+17=#P0#=mb	#P1#=Main	#P2#=ServerInmortalAO/General/Main	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311224542	#P7#=0	#P8#=17	.
+18=#P0#=mb	#P1#=AsciiValidos	#P2#=ServerInmortalAO/TCP/AsciiValidos	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311215626	#P7#=0	#P8#=-1	.
+19=#P0#=mb	#P1#=ConnectNewUser	#P2#=ServerInmortalAO/TCP/ConnectNewUser	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311192016	#P7#=0	#P8#=302	.
+20=#P0#=mb	#P1#=ValidateSkills	#P2#=ServerInmortalAO/TCP/ValidateSkills	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311191543	#P7#=0	#P8#=10	.
+21=#P0#=mb	#P1#=HandleWhisper	#P2#=ServerInmortalAO/Protocol/HandleWhisper	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311113134	#P7#=0	#P8#=74	.
+22=#P0#=mb	#P1#=DoOcultarse	#P2#=ServerInmortalAO/Trabajo/DoOcultarse	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210311105413	#P7#=0	#P8#=0	.
+23=#P0#=mb	#P1#=GolpeIncinera	#P2#=ServerInmortalAO/SistemaCombate/GolpeIncinera	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210310220950	#P7#=0	#P8#=29	.
+24=#P0#=mb	#P1#=SubirSkill	#P2#=ServerInmortalAO/UsUaRiOs/SubirSkill	#P3#=	#P4#=	#P5#=MembMethodPublic	#P6#=20210310212403	#P7#=0	#P8#=11	.
